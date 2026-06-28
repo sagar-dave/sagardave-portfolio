@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <header className="fixed left-0 top-0 z-50 w-full border-b border-white/10 bg-slate-950/60 backdrop-blur-xl">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-        <a href="#" className="text-lg font-bold tracking-tight text-white">
+        <a href="#home" className="text-lg font-bold tracking-tight text-white">
           Sagar Dave
         </a>
 
